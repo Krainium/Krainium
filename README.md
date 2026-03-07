@@ -44,7 +44,7 @@ const korra = {
 # 🔭 Current Projects
 
 • Automation scripts
-• Backend APIs built with Python, Go & Node
+• Backend APIs built with Python, Go, Node & Shell
 • CLI tools for system workflows
 • Web automation utilities
 
@@ -52,9 +52,9 @@ const korra = {
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krainium&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-eta-woad-27.vercel.app/api?username=krainium&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krainium&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eta-woad-27.vercel.app/api/top-langs/?username=krainium&layout=compact&theme=tokyonight)
 
 ---
 
