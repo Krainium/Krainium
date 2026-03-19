@@ -1,6 +1,6 @@
 # 💻 Krainium
 
-🧷 Developer | Building scalable scripts with Python, Go, Node and modern web technologies | Automation, Networking & Pentesting | Open Source Contributor
+🧷 Developer | Building scalable scripts / tools with Python, Go, Node and modern web technologies | Automation, Networking & Pentesting | Open Source Contributor
 
 ---
 
@@ -15,6 +15,7 @@ const krainium = {
     languages: ["Go", "Python", "JavaScript (Node.js)", "PowerShell", "Shell"],
     technologies: {
         backend: ["Node.js", "Go", "FastAPI"],
+        ai: ["OpenAI API", "Claude API", "LLM Integrations", "AI Agents"],
         databases: ["PostgreSQL", "MongoDB", "MySQL"],
         devOps: ["Docker", "Linux", "Nginx"],
         security: ["Networking", "Pentesting", "Security Tooling"]
@@ -24,7 +25,8 @@ const krainium = {
         "Backend APIs",
         "CLI utilities",
         "Networking utilities",
-        "Security & pentesting scripts"
+        "Security & pentesting scripts",
+        "AI-assisted automation"
     ],
     funFact: "Turning repetitive tasks into automated systems. ⚡"
 }
@@ -36,13 +38,13 @@ const krainium = {
 
 ### 🔤 Languages
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 💻 Tech Stack - 2
+### 🛡️ Tools & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -51,22 +53,26 @@ const krainium = {
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=securityscorecard&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## 🔐 Networking Badges
+### 🤖 AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🔐 Networking
 
 ![Networking](https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white)
-
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=protocols&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 # 🔭 Current Projects
 
-• Automation scripts
-• Backend APIs built with Python, Go, Node & Shell
-• CLI tools for system workflows
-• Networking utilities
-• Security / pentesting tools
+- Automation scripts
+- Backend APIs built with Python, Go, Node & Shell
+- CLI tools for system workflows
+- Networking utilities
+- Security / pentesting tools
+- AI-assisted automation and tooling
 
 ---
 
@@ -88,7 +94,7 @@ const krainium = {
 
 # 💬 Dev Quote
 
-> “First automate it. Then optimize it.”
+> "First automate it. Then optimize it."
 
 ---
 
