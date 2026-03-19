@@ -85,7 +85,6 @@ const krainium = {
 # 📫 Connect With Me
 
 📧 Email: [krainium884@aol.com](mailto:krainium884@aol.com)
-🌐 Website: .....
 💬 Telegram: https://t.me/Gad884
 
 ---
