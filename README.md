@@ -1,6 +1,6 @@
 # 💻 Krainium
 
-🧷 Developer | Building scalable scripts / tools with Python, Go, Node and modern web technologies | Automation, Networking & Pentesting | Open Source Contributor
+🧷 Developer | Building scalable scripts / tools with Python, Go, Node and modern web technologies | AI-Augmented Automation, Networking & Pentesting | Open Source Contributor
 
 ---
 
