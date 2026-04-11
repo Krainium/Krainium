@@ -84,7 +84,7 @@ const krainium = {
 
 # 📫 Connect With Me
 
-📧 Email: [krainium884@aol.com](mailto:krainium@netfragile.store)
+📧 Email: [krainium@netfragile.store](mailto:krainium@netfragile.store)
 💬 Telegram: https://t.me/krainium_net
 
 ---
