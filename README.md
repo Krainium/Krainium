@@ -76,9 +76,9 @@ const krainium = {
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eta-woad-27.vercel.app/api?username=krainium&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-eta-woad-27.vercel.app/api?username=krainium&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-eta-woad-27.vercel.app/api/top-langs/?username=krainium&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eta-woad-27.vercel.app/api/top-langs/?username=krainium&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
